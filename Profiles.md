@@ -1,4 +1,5 @@
-|-------------|-------------|-------------|-------------| | Home |Profiles| Procedures| Archive |
+|-------------|-------------|-------------|-------------|
+| [Home](/index.md)  |[Profiles](/Profiles.md)| [Procedures](/Procedures.md)|  [Archive](/Archive.md) |
 
 # Content Profiles
 
